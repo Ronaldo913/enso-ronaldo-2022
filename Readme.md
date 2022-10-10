@@ -3,6 +3,6 @@
  
 #### Integrantes
  
-| [<img src="./Integrantes/ronaldo.jpeg" width=115><br><sub>Ronaldo Noberto</sub>](https://github.com/Ronaldo913) |
+| [<img src="./ronaldo.jpeg" width=115><br><sub>Ronaldo Noberto</sub>](https://github.com/Ronaldo913) |
 | :---: |
 
